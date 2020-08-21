@@ -1,0 +1,14 @@
+E:\0         CODING\Big Projects\ManagementApp\ManagementApp\obj\Debug\ManagementApp.csprojAssemblyReference.cache
+E:\0         CODING\Big Projects\ManagementApp\ManagementApp\obj\Debug\ManagementApp.LoginForm.resources
+E:\0         CODING\Big Projects\ManagementApp\ManagementApp\obj\Debug\ManagementApp.MainMenu.resources
+E:\0         CODING\Big Projects\ManagementApp\ManagementApp\obj\Debug\ManagementApp.ManagerMenu.resources
+E:\0         CODING\Big Projects\ManagementApp\ManagementApp\obj\Debug\ManagementApp.Properties.Resources.resources
+E:\0         CODING\Big Projects\ManagementApp\ManagementApp\obj\Debug\ManagementApp.RegisterForm.resources
+E:\0         CODING\Big Projects\ManagementApp\ManagementApp\obj\Debug\ManagementApp.TaskForm.resources
+E:\0         CODING\Big Projects\ManagementApp\ManagementApp\obj\Debug\ManagementApp.csproj.GenerateResource.cache
+E:\0         CODING\Big Projects\ManagementApp\ManagementApp\obj\Debug\ManagementApp.csproj.CoreCompileInputs.cache
+E:\0         CODING\Big Projects\ManagementApp\ManagementApp\bin\Debug\ManagementApp.exe.config
+E:\0         CODING\Big Projects\ManagementApp\ManagementApp\bin\Debug\ManagementApp.exe
+E:\0         CODING\Big Projects\ManagementApp\ManagementApp\bin\Debug\ManagementApp.pdb
+E:\0         CODING\Big Projects\ManagementApp\ManagementApp\obj\Debug\ManagementApp.exe
+E:\0         CODING\Big Projects\ManagementApp\ManagementApp\obj\Debug\ManagementApp.pdb
